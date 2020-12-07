@@ -1,0 +1,32 @@
+.bg-teal-500 {
+    background-color: #20c997;
+}
+.bg-teal-700 {
+    background-color: #13795b;
+}
+.bg-teal-900 {
+    background-color: #06281e;
+}
+
+.bg-gray-100 {
+    background-color: #f8f9fa;
+}
+.bg-gray-200 {
+    background-color: #e9ecef;
+}
+.bg-gray-500 {
+    background-color: #adb5bd;
+}
+.bg-gray-700 {
+    background-color: #495057;
+}
+.bg-gray-800 {
+    background-color: #212529;
+}
+
+.bg-image-intro {
+    background-image: url(images/undraw_static_assets_rpm6.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
