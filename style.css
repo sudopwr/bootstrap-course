@@ -1,3 +1,13 @@
+.text-teal-500 {
+    color: #20c997;
+}
+.text-teal-700 {
+    color: #13795b;
+}
+.text-teal-900 {
+    color: #06281e;
+}
+
 .bg-teal-500 {
     background-color: #20c997;
 }
@@ -6,6 +16,23 @@
 }
 .bg-teal-900 {
     background-color: #06281e;
+}
+
+
+.text-gray-100 {
+    color: #f8f9fa;
+}
+.text-gray-200 {
+    color: #e9ecef;
+}
+.text-gray-500 {
+    color: #adb5bd;
+}
+.text-gray-700 {
+    color: #495057;
+}
+.text-gray-800 {
+    color: #212529;
 }
 
 .bg-gray-100 {
