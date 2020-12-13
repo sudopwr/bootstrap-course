@@ -53,17 +53,3 @@
 .bg-gray-800 {
     background-color: #212529;
 }
-
-.bg-image-intro {
-    background-image: url(images/undraw_static_assets_rpm6.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.bg-image-skills {
-    background-image: url(images/undraw_contract_uy56.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
